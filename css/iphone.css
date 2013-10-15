@@ -1,0 +1,16 @@
+.iphone {
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+  border: solid #0d0d10;
+  width: 15.7em;
+  height: 27.946em;
+  border-width: 5.652em 1.4758em;
+  border-radius: 2.4178em; }
+  .iphone.horizontal {
+    width: 27.946em;
+    height: 15.7em;
+    border-width: 1.4758em 5.652em; }
+
+.iphone {
+  margin: 30px auto; }
